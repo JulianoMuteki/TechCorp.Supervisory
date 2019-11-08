@@ -1,0 +1,30 @@
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\le\Commands.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\be\Commands.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\le\Commands.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\be\Commands.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\Commands.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\Commands.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\le\Commands.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\le\Commands.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\be\Commands.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\be\Commands.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\Commands.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\Commands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\le\Commands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\be\Commands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\le\Commands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\be\Commands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\Commands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\Commands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\le\Commands.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\le\Commands.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\be\Commands.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\bin\Debug\be\Commands.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\be\Commands.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\be\Commands.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\le\Commands.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\le\Commands.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\Commands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\Commands\obj\Debug\Commands.pdb

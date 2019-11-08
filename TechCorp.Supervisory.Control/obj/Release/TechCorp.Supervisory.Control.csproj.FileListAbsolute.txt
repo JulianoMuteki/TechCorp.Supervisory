@@ -1,0 +1,16 @@
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\TechCorp.Supervisory.Control.dll.config
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\TechCorp.Supervisory.Control.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\NetFrameworkCommands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Release\TechCorp.Supervisory.Control.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Release\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Release\TechCorp.Supervisory.Control.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\TechCorp.Supervisory.Control.dll.config
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\TechCorp.Supervisory.Control.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Release\NetFrameworkCommands.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Release\TechCorp.Supervisory.Control.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Release\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Release\TechCorp.Supervisory.Control.pdb

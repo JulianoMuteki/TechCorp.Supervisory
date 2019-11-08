@@ -1,0 +1,10 @@
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\bin\Debug\TechCorp.Supervisory.ServerTCP.exe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\bin\Debug\TechCorp.Supervisory.ServerTCP.pdb
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\obj\x86\Debug\TechCorp.Supervisory.ServerTCP.exe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\obj\x86\Debug\TechCorp.Supervisory.ServerTCP.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\bin\Debug\TechCorp.Supervisory.ServerTCP.exe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\bin\Debug\TechCorp.Supervisory.ServerTCP.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\obj\x86\Debug\TechCorp.Supervisory.ServerTCP.exe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ServerTCP\obj\x86\Debug\TechCorp.Supervisory.ServerTCP.pdb

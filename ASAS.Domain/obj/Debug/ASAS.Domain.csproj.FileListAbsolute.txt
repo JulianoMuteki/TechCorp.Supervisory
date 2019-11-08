@@ -1,0 +1,9 @@
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\bin\Debug\ASAS.Domain.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\bin\Debug\ASAS.Domain.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\bin\Debug\ASAS.Log.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\bin\Debug\NLog.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\bin\Debug\ASAS.Log.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\bin\Debug\NLog.xml
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\obj\Debug\ASAS.Domain.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\obj\Debug\ASAS.Domain.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Domain\obj\Debug\ASAS.Domain.pdb

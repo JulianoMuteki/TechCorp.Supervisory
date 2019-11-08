@@ -1,0 +1,19 @@
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.dll
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.pdb
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\TechCorp.Supervisory.UI.Web.dll
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\TechCorp.Supervisory.UI.Web.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.Control.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.Control.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\TechCorp.Supervisory.UI.Web.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\TechCorp.Supervisory.UI.Web.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.Control.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\TechCorp.Supervisory.UI.Web.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\TechCorp.Supervisory.UI.Web.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Debug\TechCorp.Supervisory.UI.Web.pdb

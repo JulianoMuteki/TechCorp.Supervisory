@@ -1,0 +1,14 @@
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.Control.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Release\TechCorp.Supervisory.UI.Web.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Release\TechCorp.Supervisory.UI.Web.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Release\TechCorp.Supervisory.UI.Web.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.UI.Web.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\bin\TechCorp.Supervisory.Control.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Release\TechCorp.Supervisory.UI.Web.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Release\TechCorp.Supervisory.UI.Web.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.UI.Web\obj\Release\TechCorp.Supervisory.UI.Web.pdb

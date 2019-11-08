@@ -1,0 +1,14 @@
+/*
+ *   Color skin BLUE
+ *   ===============
+ **/
+
+body,
+#content  { background-color: #17316a; }
+
+#main     { background-image: url(../img/bg-header-login.gif); }
+#logo     { background-image: url(../img/bg-gradient-login.gif); }
+#content  { background-image: url(../img/bg-content-login.gif); }
+
+.formBox input.input           { background-image: url(../img/bg-input-login.gif); }
+.formBox input:focus.input     { background-image: url(../img/bg-input-login.gif); }

@@ -1,0 +1,40 @@
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\le\FEZ Panda II Application.exe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\be\FEZ Panda II Application.exe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\le\FEZ Panda II Application.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\be\FEZ Panda II Application.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\FEZ Panda II Application.exe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\FEZ Panda II Application.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\le\FEZ Panda II Application.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\le\FEZ Panda II Application.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\be\FEZ Panda II Application.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\be\FEZ Panda II Application.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\LE\Commands.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\LE\GHIElectronics.NETMF.W5100.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\LE\TechCorp.Supervisory.ControlFEZPanda.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\BE\Commands.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\BE\GHIElectronics.NETMF.W5100.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\BE\TechCorp.Supervisory.ControlFEZPanda.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\LE\Commands.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\LE\GHIElectronics.NETMF.W5100.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\LE\TechCorp.Supervisory.ControlFEZPanda.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\BE\Commands.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\BE\GHIElectronics.NETMF.W5100.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\BE\TechCorp.Supervisory.ControlFEZPanda.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\Commands.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\GHIElectronics.NETMF.W5100.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\TechCorp.Supervisory.ControlFEZPanda.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\Commands.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\TechCorp.Supervisory.ControlFEZPanda.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Release\GHIElectronics.NETMF.W5100.xml
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\TechCorp.Supervisory.ClientTCP.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\TinyCLR_DebugReferences.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\TechCorp.Supervisory.ClientTCP.Resources.resources
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\TechCorp.Supervisory.ClientTCP.csproj.GenerateResource.Cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\TechCorp.Supervisory.ClientTCP.Resources.tinyresources
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\TinyResGen.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\be\FEZ Panda II Application.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\be\FEZ Panda II Application.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\le\FEZ Panda II Application.pe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\le\FEZ Panda II Application.pdbx
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\FEZ Panda II Application.exe
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Release\FEZ Panda II Application.pdb

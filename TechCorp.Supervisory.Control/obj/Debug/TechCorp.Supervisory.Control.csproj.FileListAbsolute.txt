@@ -1,0 +1,16 @@
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\TechCorp.Supervisory.Control.dll.config
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\TechCorp.Supervisory.Control.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\TechCorp.Supervisory.Control.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\NetFrameworkCommands.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\NetFrameworkCommands.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Debug\TechCorp.Supervisory.Control.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Debug\TechCorp.Supervisory.Control.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\TechCorp.Supervisory.Control.dll.config
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\TechCorp.Supervisory.Control.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\bin\Debug\NetFrameworkCommands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Debug\TechCorp.Supervisory.Control.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Debug\TechCorp.Supervisory.Control.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.Control\obj\Debug\TechCorp.Supervisory.Control.pdb

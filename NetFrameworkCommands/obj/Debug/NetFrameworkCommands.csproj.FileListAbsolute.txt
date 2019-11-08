@@ -1,0 +1,9 @@
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\bin\Debug\NetFrameworkCommands.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\bin\Debug\NetFrameworkCommands.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\obj\Debug\NetFrameworkCommands.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\obj\Debug\NetFrameworkCommands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\bin\Debug\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\bin\Debug\NetFrameworkCommands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\obj\Debug\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\obj\Debug\NetFrameworkCommands.pdb

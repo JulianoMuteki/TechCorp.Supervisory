@@ -1,0 +1,40 @@
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\le\TechCorp.Supervisory.ControlFEZPanda.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\be\TechCorp.Supervisory.ControlFEZPanda.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\le\TechCorp.Supervisory.ControlFEZPanda.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\be\TechCorp.Supervisory.ControlFEZPanda.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\TechCorp.Supervisory.ControlFEZPanda.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\TechCorp.Supervisory.ControlFEZPanda.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\le\TechCorp.Supervisory.ControlFEZPanda.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\le\TechCorp.Supervisory.ControlFEZPanda.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\be\TechCorp.Supervisory.ControlFEZPanda.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\be\TechCorp.Supervisory.ControlFEZPanda.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\TechCorp.Supervisory.ControlFEZPanda.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\TechCorp.Supervisory.ControlFEZPanda.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\le\TechCorp.Supervisory.ControlFEZPanda.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\be\TechCorp.Supervisory.ControlFEZPanda.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\le\TechCorp.Supervisory.ControlFEZPanda.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\be\TechCorp.Supervisory.ControlFEZPanda.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\TechCorp.Supervisory.ControlFEZPanda.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\TechCorp.Supervisory.ControlFEZPanda.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\le\TechCorp.Supervisory.ControlFEZPanda.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\le\TechCorp.Supervisory.ControlFEZPanda.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\be\TechCorp.Supervisory.ControlFEZPanda.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\be\TechCorp.Supervisory.ControlFEZPanda.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\be\TechCorp.Supervisory.ControlFEZPanda.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\be\TechCorp.Supervisory.ControlFEZPanda.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\le\TechCorp.Supervisory.ControlFEZPanda.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\le\TechCorp.Supervisory.ControlFEZPanda.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\TechCorp.Supervisory.ControlFEZPanda.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ControlFEZPanda\obj\Debug\TechCorp.Supervisory.ControlFEZPanda.pdb

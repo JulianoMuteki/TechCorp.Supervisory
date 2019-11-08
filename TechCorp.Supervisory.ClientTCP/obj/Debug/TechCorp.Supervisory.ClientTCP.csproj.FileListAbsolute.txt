@@ -1,0 +1,106 @@
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.exe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.exe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pdb
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pdb
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\FEZ Panda II Application.exe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\FEZ Panda II Application.pdb
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pdbx
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pdbx
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\GHIElectronics.NETMF.W5100.dll
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\GHIElectronics.NETMF.W5100.xml
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TechCorp.Supervisory.ClientTCP.Resources.resources
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TechCorp.Supervisory.ClientTCP.Resources.tinyresources
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TinyResGen.cache
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\FEZ Panda II Application.exe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\FEZ Panda II Application.pdb
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\be\FEZ Panda II Application.pe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\be\FEZ Panda II Application.pdbx
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\le\FEZ Panda II Application.pe
+C:\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.exe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.exe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\FEZ Panda II Application.exe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\FEZ Panda II Application.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\Commands.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\TechCorp.Supervisory.ControlFEZPanda.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\Commands.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\TechCorp.Supervisory.ControlFEZPanda.pe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\Commands.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\TechCorp.Supervisory.ControlFEZPanda.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\Commands.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\TechCorp.Supervisory.ControlFEZPanda.pdbx
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\Commands.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\GHIElectronics.NETMF.W5100.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\TechCorp.Supervisory.ControlFEZPanda.dll
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\Commands.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\TechCorp.Supervisory.ControlFEZPanda.pdb
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\GHIElectronics.NETMF.W5100.xml
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TechCorp.Supervisory.ClientTCP.Resources.resources
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TechCorp.Supervisory.ClientTCP.Resources.tinyresources
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TinyResGen.cache
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\FEZ Panda II Application.exe
+C:\Users\Windows 7\SkyDriveWork\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\FEZ Panda II Application.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.exe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.exe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\FEZ Panda II Application.exe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\FEZ Panda II Application.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\le\FEZ Panda II Application.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\be\FEZ Panda II Application.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\Commands.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\TechCorp.Supervisory.ControlFEZPanda.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\Commands.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\TechCorp.Supervisory.ControlFEZPanda.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\Commands.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\LE\TechCorp.Supervisory.ControlFEZPanda.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\Commands.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\BE\TechCorp.Supervisory.ControlFEZPanda.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\Commands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\GHIElectronics.NETMF.W5100.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\TechCorp.Supervisory.ControlFEZPanda.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\Commands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\TechCorp.Supervisory.ControlFEZPanda.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\bin\Debug\GHIElectronics.NETMF.W5100.xml
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TechCorp.Supervisory.ClientTCP.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TechCorp.Supervisory.ClientTCP.Resources.resources
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TechCorp.Supervisory.ClientTCP.csproj.GenerateResource.Cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TechCorp.Supervisory.ClientTCP.Resources.tinyresources
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TinyResGen.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\be\FEZ Panda II Application.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\be\FEZ Panda II Application.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\le\FEZ Panda II Application.pe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\le\FEZ Panda II Application.pdbx
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\FEZ Panda II Application.exe
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\FEZ Panda II Application.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.ClientTCP\obj\Debug\TinyCLR_DebugReferences.cache

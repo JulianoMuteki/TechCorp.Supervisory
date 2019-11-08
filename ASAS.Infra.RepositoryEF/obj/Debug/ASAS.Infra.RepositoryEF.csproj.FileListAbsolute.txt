@@ -1,0 +1,17 @@
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\ASAS.Infra.RepositoryEF.dll.config
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\ASAS.Infra.RepositoryEF.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\ASAS.Infra.RepositoryEF.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\ASAS.Domain.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\ASAS.Log.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\EntityFramework.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\Ninject.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\NLog.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\ASAS.Domain.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\ASAS.Log.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\EntityFramework.xml
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\Ninject.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\Ninject.xml
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Debug\NLog.xml
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\obj\Debug\ASAS.Infra.RepositoryEF.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\obj\Debug\ASAS.Infra.RepositoryEF.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\obj\Debug\ASAS.Infra.RepositoryEF.pdb

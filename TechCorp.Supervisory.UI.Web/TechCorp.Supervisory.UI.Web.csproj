@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5FB8497C-BE6A-4806-8D1A-192B261BEE24}</ProjectGuid>
+    <ProjectTypeGuids>{E53F8FEA-EAE0-44A6-8774-FFD645390401};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TechCorp.Supervisory.UI.Web</RootNamespace>
+    <AssemblyName>TechCorp.Supervisory.UI.Web</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.WebPages" />
+    <Reference Include="System.Web.Helpers" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Fachada.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\Supervisory.WS\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\css\tables.css" />
+    <Content Include="Content\css\website.css" />
+    <Content Include="Content\images\bg-dot.png" />
+    <Content Include="Content\images\bg-rotatescroll.png" />
+    <Content Include="Content\images\bg-thumb.png" />
+    <Content Include="Content\images\hdr1.jpg" />
+    <Content Include="Content\images\hdr2.jpg" />
+    <Content Include="Content\images\hdr3.jpg" />
+    <Content Include="Content\images\hdr4.jpg" />
+    <Content Include="Content\images\hdr5.jpg" />
+    <Content Include="Content\img\bg-bookmark.gif" />
+    <Content Include="Content\img\bg-button-red.gif" />
+    <Content Include="Content\img\bg-button-red.png" />
+    <Content Include="Content\img\bg-button.gif" />
+    <Content Include="Content\img\bg-content-login.gif" />
+    <Content Include="Content\img\bg-first.gif" />
+    <Content Include="Content\img\bg-gradient-login.gif" />
+    <Content Include="Content\img\bg-header-login.gif" />
+    <Content Include="Content\img\bg-header-repeat.png" />
+    <Content Include="Content\img\bg-header.png" />
+    <Content Include="Content\img\bg-headlines.gif" />
+    <Content Include="Content\img\bg-input-error.gif" />
+    <Content Include="Content\img\bg-input-login.gif" />
+    <Content Include="Content\img\bg-input-submit.gif" />
+    <Content Include="Content\img\bg-input.gif" />
+    <Content Include="Content\img\bg-last.gif" />
+    <Content Include="Content\img\bg-logo-login %281%29.png" />
+    <Content Include="Content\img\bg-logo-login.png" />
+    <Content Include="Content\img\bg-next.gif" />
+    <Content Include="Content\img\bg-prev.gif" />
+    <Content Include="Content\img\bg-submit.gif" />
+    <Content Include="Content\img\breadcrumb_arrow.gif" />
+    <Content Include="Content\img\choose-file.gif" />
+    <Content Include="Content\img\correct.gif" />
+    <Content Include="Content\img\datepicker.png" />
+    <Content Include="Content\img\delete.gif" />
+    <Content Include="Content\img\dragHandle.png" />
+    <Content Include="Content\img\edit.gif" />
+    <Content Include="Content\img\error.gif" />
+    <Content Include="Content\img\fancybox.png" />
+    <Content Include="Content\img\help.png" />
+    <Content Include="Content\img\ico-warning.png" />
+    <Content Include="Content\img\img-01-orig.jpg" />
+    <Content Include="Content\img\img-01.jpg" />
+    <Content Include="Content\img\img-02-orig.jpg" />
+    <Content Include="Content\img\img-02.jpg" />
+    <Content Include="Content\img\img-shadow.png" />
+    <Content Include="Content\img\jquery.wysiwyg.gif" />
+    <Content Include="Content\img\list-dash.gif" />
+    <Content Include="Content\img\list-disc.gif" />
+    <Content Include="Content\img\list-square.gif" />
+    <Content Include="Content\img\warning.gif" />
+    <Content Include="Content\img\__utm.gif" />
+    <Content Include="Content\css\blue.css" />
+    <Content Include="Content\css\datePicker.css" />
+    <Content Include="Content\css\default.css" />
+    <Content Include="Content\css\fancybox-1.3.1.css" />
+    <Content Include="Content\css\login-blue.css" />
+    <Content Include="Content\css\login.css" />
+    <Content Include="Content\css\visualize.css" />
+    <Content Include="Content\css\wysiwyg.css" />
+    <Content Include="Content\js\date.js" />
+    <Content Include="Content\js\excanvas.js" />
+    <Content Include="Content\js\init.js" />
+    <Content Include="Content\js\jquery-1.4.2.min.js" />
+    <Content Include="Content\js\jquery-1.6.2.min.js" />
+    <Content Include="Content\js\jquery.dataTables.min.js" />
+    <Content Include="Content\js\jquery.datePicker.js" />
+    <Content Include="Content\js\jquery.dimensions.min.js" />
+    <Content Include="Content\js\jquery.fancybox-1.3.1.js" />
+    <Content Include="Content\js\jquery.filestyle.js" />
+    <Content Include="Content\js\jquery.timer.js" />
+    <Content Include="Content\js\jquery.tinycircleslider.min.js" />
+    <Content Include="Content\js\jquery.ui.tabs.min.js" />
+    <Content Include="Content\js\jquery.visualize.js" />
+    <Content Include="Content\js\jquery.wysiwyg.js" />
+    <Content Include="Content\js\tablednd.js" />
+    <Content Include="Content\js\ui.core.js" />
+    <Content Include="Global.asax" />
+    <None Include="Content\images\Thumbs.db" />
+    <None Include="Service References\Supervisory.WS\configuration91.svcinfo" />
+    <None Include="Service References\Supervisory.WS\configuration.svcinfo" />
+    <None Include="Service References\Supervisory.WS\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Scripts\jquery-1.4.4.js" />
+    <Content Include="Scripts\jquery-1.4.4.min.js" />
+    <Content Include="Scripts\jquery-1.4.4-vsdoc.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery-ui.js" />
+    <Content Include="Scripts\jquery-ui.min.js" />
+    <Content Include="Scripts\MicrosoftAjax.js" />
+    <Content Include="Scripts\MicrosoftAjax.debug.js" />
+    <Content Include="Scripts\MicrosoftMvcAjax.js" />
+    <Content Include="Scripts\MicrosoftMvcAjax.debug.js" />
+    <Content Include="Scripts\MicrosoftMvcValidation.js" />
+    <Content Include="Scripts\MicrosoftMvcValidation.debug.js" />
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Table.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TechCorp.Supervisory.Control\TechCorp.Supervisory.Control.csproj">
+      <Project>{CCF69107-D4DF-41EE-9096-B72D99DED3B8}</Project>
+      <Name>TechCorp.Supervisory.Control</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Supervisory.WS\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Supervisory.WS\service.wsdl" />
+    <None Include="Service References\Supervisory.WS\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Supervisory.WS\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Staging|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>5962</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

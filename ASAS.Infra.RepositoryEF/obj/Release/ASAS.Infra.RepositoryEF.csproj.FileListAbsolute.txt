@@ -1,0 +1,17 @@
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\ASAS.Infra.RepositoryEF.dll.config
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\ASAS.Infra.RepositoryEF.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\ASAS.Infra.RepositoryEF.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\ASAS.Domain.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\ASAS.Log.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\EntityFramework.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\Ninject.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\NLog.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\ASAS.Domain.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\ASAS.Log.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\EntityFramework.xml
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\Ninject.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\Ninject.xml
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\bin\Release\NLog.xml
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\obj\Release\ASAS.Infra.RepositoryEF.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\obj\Release\ASAS.Infra.RepositoryEF.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Infra.RepositoryEF\obj\Release\ASAS.Infra.RepositoryEF.pdb

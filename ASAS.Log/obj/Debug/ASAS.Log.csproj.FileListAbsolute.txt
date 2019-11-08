@@ -1,0 +1,6 @@
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Log\bin\Debug\ASAS.Log.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Log\bin\Debug\ASAS.Log.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Log\bin\Debug\NLog.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Log\bin\Debug\NLog.xml
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Log\obj\Debug\ASAS.Log.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\ASAS.Log\obj\Debug\ASAS.Log.pdb

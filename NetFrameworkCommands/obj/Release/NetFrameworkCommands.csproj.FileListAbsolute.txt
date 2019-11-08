@@ -1,0 +1,10 @@
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\bin\Release\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\bin\Release\NetFrameworkCommands.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\obj\Release\NetFrameworkCommands.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\obj\Release\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\NetFrameworkCommands\obj\Release\NetFrameworkCommands.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\NetFrameworkCommands\bin\Release\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\NetFrameworkCommands\bin\Release\NetFrameworkCommands.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\NetFrameworkCommands\obj\Release\NetFrameworkCommands.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\NetFrameworkCommands\obj\Release\NetFrameworkCommands.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\NetFrameworkCommands\obj\Release\NetFrameworkCommands.pdb

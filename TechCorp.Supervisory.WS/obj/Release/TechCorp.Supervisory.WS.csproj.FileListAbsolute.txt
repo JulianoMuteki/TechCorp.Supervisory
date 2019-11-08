@@ -1,0 +1,12 @@
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.WS\bin\Release\TechCorp.Supervisory.WS.dll.config
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.WS\bin\Release\TechCorp.Supervisory.WS.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.WS\bin\Release\TechCorp.Supervisory.WS.pdb
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.WS\obj\Release\TechCorp.Supervisory.WS.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.WS\obj\Release\TechCorp.Supervisory.WS.dll
+E:\SkyDrive\Documentos\Projetos\MicroFramework\TechCorp.Supervisory\TechCorp.Supervisory.WS\obj\Release\TechCorp.Supervisory.WS.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.WS\bin\Release\TechCorp.Supervisory.WS.dll.config
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.WS\bin\Release\TechCorp.Supervisory.WS.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.WS\bin\Release\TechCorp.Supervisory.WS.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.WS\obj\Release\TechCorp.Supervisory.WS.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.WS\obj\Release\TechCorp.Supervisory.WS.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\TechCorp.Supervisory.WS\obj\Release\TechCorp.Supervisory.WS.pdb

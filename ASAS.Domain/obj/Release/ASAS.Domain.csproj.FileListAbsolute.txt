@@ -1,0 +1,9 @@
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\bin\Release\ASAS.Domain.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\bin\Release\ASAS.Domain.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\bin\Release\ASAS.Log.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\bin\Release\NLog.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\bin\Release\ASAS.Log.pdb
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\bin\Release\NLog.xml
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\obj\Release\ASAS.Domain.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\obj\Release\ASAS.Domain.dll
+E:\SkyDrive\Documentos\Back-up\TechCorp.Supervisory\ASAS.Domain\obj\Release\ASAS.Domain.pdb
